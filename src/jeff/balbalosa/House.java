@@ -1,2 +1,4 @@
-package jeff.balbalosa;public class House {
+package jeff.balbalosa;
+
+public class House {
 }
